@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace generic_stuff
 {
+    //Author: Karim Oumghar
+    //Priority Queue Templatized in C#
+    //You are free to use/modify it. 
     class PriorityQueue<T>
     {
         class Node
