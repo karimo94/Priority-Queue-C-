@@ -1,6 +1,7 @@
 Priority Queue C#.Net by Karim Oumghar
 
-My templatized priority queue implementation
+My templatized priority queue implementation.
+
 Not for official use, you are responsible for any code you write/copy!
 
 This is based on Min-Heap (i.e. #1,2,3, etc takes higher priority).
